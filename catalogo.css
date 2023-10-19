@@ -1,0 +1,9 @@
+.sections{
+    display:flex;
+    flex-direction: row;
+    width: 100%;
+}
+.card{
+    width: 40px;
+    display: flex;
+}
